@@ -2,6 +2,7 @@
 # python 3.4.3
 # demo of particle swarm optimization (PSO)
 # solves Rastrigin's function
+# Based on: James D. McCaffrey, Particle Swarm Optimization using Python (2015)
 
 import random
 import math    # cos() for Rastrigin
